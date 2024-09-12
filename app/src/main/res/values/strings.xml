@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FoodCourt</string>
+    <string name="txt_skip">Skip</string>
+    <string name="edit_phone_number">Enter Phone Number</string>
+</resources>
